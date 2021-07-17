@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409274935176",
+    "project_id": "childish-77f99",
+    "storage_bucket": "childish-77f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409274935176:android:e68dea5a4af6c0639a7c3d",
+        "android_client_info": {
+          "package_name": "com.quintus.labs.kidzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409274935176-891j05qif0qac08vdk36g3c7m12s7kgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsERB8Sirw9qvpQic2KC-tycbDMnxhIVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409274935176-891j05qif0qac08vdk36g3c7m12s7kgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
